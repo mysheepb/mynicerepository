@@ -1,2 +1,5 @@
 Hello world! I'm here
+<<<<<<< HEAD
 Change one line
+=======
+>>>>>>> a3baa8246546112c69121acc185da74453102002
